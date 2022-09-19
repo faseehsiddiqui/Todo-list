@@ -207,7 +207,7 @@ export default class App extends React.Component {
                   Time
                 </th>
                 <th scope="col" className="text-center w-25">
-                  Handle
+                  Handle changing now
                 </th>
               </tr>
             </thead>
