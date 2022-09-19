@@ -204,7 +204,7 @@ export default class App extends React.Component {
                   #
                 </th>
                 <th scope="col" className="text-center w-25">
-                  Data
+                  Data of the day changing
                 </th>
                 <th scope="col" className="text-center w-25">
                   Time of the day
