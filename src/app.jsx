@@ -9,14 +9,11 @@ export default class App extends React.Component {
     input: {
       name: '',
       time: '',
-      flag: '',
-      newflagrerererss: '',
     },
     arr: [],
     index: null,
     cls_Sub: 'Show',
     cls_Upd: 'Hide',
-    ssss,
   }
   timer = () => {
     var arr = this.state.arr
@@ -207,10 +204,10 @@ export default class App extends React.Component {
                   Data
                 </th>
                 <th scope="col" className="text-center w-25">
-                  Time of the day
+                  Time
                 </th>
                 <th scope="col" className="text-center w-25">
-                  Handle data changing
+                  Handle
                 </th>
               </tr>
             </thead>
