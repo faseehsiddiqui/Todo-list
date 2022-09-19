@@ -9,6 +9,10 @@ export default class App extends React.Component {
     input: {
       name: '',
       time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
     },
     arr: [],
     index: null,
