@@ -7,8 +7,13 @@ import { RiDeleteBin6Fill } from "react-icons/ri";
 export default class App extends React.Component {
   state = {
     input: {
-      name: "",
-      time: "",
+
+      flag: "",
+      newflag: "",
+      newflag: "",
+      newflag: "",
+
+
     },
     arr: [],
     index: null,
