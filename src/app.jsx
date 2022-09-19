@@ -8,6 +8,13 @@ export default class App extends React.Component {
   state = {
     input: {
       name: '',
+      name: '',
+      name: '',
+      name: '',
+      name: '',
+      name: '',
+      name: '',
+      name: '',
       time: '',
       time: '',
       time: '',
