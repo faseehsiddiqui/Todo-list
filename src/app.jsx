@@ -11,6 +11,7 @@ export default class App extends React.Component {
       time: "",
       flag: "",
       newflag: "",
+      newflag: "",
     },
     arr: [],
     index: null,
