@@ -10,7 +10,7 @@ export default class App extends React.Component {
       name: "",
       time: "",
       flag: "",
-      newflagsss: "",
+      newflag: "",
     },
     arr: [],
     index: null,
