@@ -201,7 +201,7 @@ export default class App extends React.Component {
                   #
                 </th>
                 <th scope="col" className="text-center w-25">
-                  Data handling
+                  Data
                 </th>
                 <th scope="col" className="text-center w-25">
                   Time
