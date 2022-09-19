@@ -7,17 +7,26 @@ import { RiDeleteBin6Fill } from "react-icons/ri";
 export default class App extends React.Component {
   state = {
     input: {
-      name: "",
-      time: "",
-      flag: "",
-      newflag: "",
+      name: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
+      time: '',
     },
     arr: [],
     index: null,
-    cls_Sub: "Show",
-    cls_Upd: "Hide",
-    ssss,
-  };
+    cls_Sub: 'Show',
+    cls_Upd: 'Hide',
+  }
   timer = () => {
     var arr = this.state.arr;
     arr.map((ele, i) => {
@@ -207,10 +216,11 @@ export default class App extends React.Component {
                   Data of the day changing
                 </th>
                 <th scope="col" className="text-center w-25">
-                  Time of the day
+                  Time
                 </th>
                 <th scope="col" className="text-center w-25">
-                  Handle changing now
+                  Handle
+ 
                 </th>
               </tr>
             </thead>
