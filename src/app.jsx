@@ -12,6 +12,7 @@ export default class App extends React.Component {
       flag: "",
       newflag: "",
       newflag: "",
+      newflag: "",
     },
     arr: [],
     index: null,
