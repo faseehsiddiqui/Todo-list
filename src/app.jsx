@@ -210,7 +210,7 @@ export default class App extends React.Component {
                   Time of the day
                 </th>
                 <th scope="col" className="text-center w-25">
-                  Handle data changing
+                  Handle changing now
                 </th>
               </tr>
             </thead>
